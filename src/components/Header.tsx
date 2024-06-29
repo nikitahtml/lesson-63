@@ -12,6 +12,7 @@ const Header: React.FC = () => {
                     <li><Link to="/contacts">Contacts</Link></li>
                 </ul>
             </nav>
+
         </header>
     );
 }

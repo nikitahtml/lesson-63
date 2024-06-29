@@ -15,6 +15,7 @@ const AddPostPage: React.FC = () => {
         }
     };
 
+
     return (
         <div>
             <h1>Add New Post</h1>

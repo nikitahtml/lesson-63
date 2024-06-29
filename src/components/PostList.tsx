@@ -30,6 +30,8 @@ const PostList: React.FC = () => {
         fetchPosts();
     }, []);
 
+
+
     return (
         <div>
             <h2>Posts</h2>
